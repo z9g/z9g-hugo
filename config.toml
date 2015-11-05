@@ -1,0 +1,23 @@
+baseurl = "http://z9g.github.io/"
+languageCode = "en-us"
+title = "Zhanglipeng's Blog"
+disqusShortname = "zhanglipeng"
+
+[Params]
+  # -- Theme: slim
+  # Subtitle = "Your site's subtitle/tagline"
+  GithubID = "z9g"
+  TwitterID = "zhanglipeng"
+  # AnalyticsID = "Your Google Analytics tracking code"
+  Summary = true  # takes true or false
+  Content = false  # takes true or false
+  # if both are set to true, summary is shown.
+
+  # -- Theme: angels-ladder
+  # subtitle = "happy hacking."
+  # facebook = "https://www.facebook.com/imz9g"
+  # twitter = "https://twitter.com/zhanglipeng"
+  # github = "https://github.com/z9g"
+  # profile = "/images/profile.png"
+  # copyright = ""
+  # analytics = "UA-XXXXXXXX-X"
